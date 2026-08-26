@@ -1,0 +1,6 @@
+{
+  "name": "VyapaarTrust AI",
+  "description": "MSME Financial Trust Intelligence Platform providing explainable credit readiness, risk assessment, and financial health analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
